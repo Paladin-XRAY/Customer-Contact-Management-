@@ -9,6 +9,7 @@
   <meta name="author" content="">
 
   <title>Customer Contact Management.</title>
+  <title>DBMS Project.</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -51,7 +52,7 @@
   <header class="masthead text-center text-white">
     <div class="masthead-content">
       <div class="container">
-        <h1 class="masthead-heading mb-0">Customer Contact Management</h1>
+        <h1 class="masthead-heading mb-0">Customer Contact Management.</h1>
         <a href="registration.php" class="btn btn-primary btn-xl rounded-pill mt-5">User Signup</a>
       </div>
     </div>
